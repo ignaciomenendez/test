@@ -12,3 +12,7 @@ http://localhost:8196/getmales
 
 To see the oldest person go here: 
 http://localhost:8196/getolder
+
+---------------------------------------------------------------
+For the RESTful API i used a framework called Restlet Framework
+http://restlet.org/
